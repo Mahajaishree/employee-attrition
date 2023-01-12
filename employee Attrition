@@ -1,7 +1,0 @@
-
-import numpy as np
-import pandas as pd
-import seaborn as sns
-#Store the data into the df variable
-df = pd.read_csv('WA_Fn-UseC_-HR-Employee-Attrition.csv') 
-df.head(7) #Print the first 7 rows
